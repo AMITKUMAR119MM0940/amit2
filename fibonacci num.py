@@ -8,4 +8,4 @@ while n>0:
     a = b
     b = c
     n=n-1
-    n=n+1
+    
