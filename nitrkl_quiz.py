@@ -3,7 +3,7 @@
 import time
 
 #Welcome the user
-print("Welcome to the Simple Quiz Game!")
+print("Welcome to the Simple Quiz Game yehh!!!!!!!!!!")
 time.sleep(1)
 
 #Chances
